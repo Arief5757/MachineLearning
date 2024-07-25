@@ -1,0 +1,4 @@
+pandas
+scikit-learn
+streamlit==1.19.0
+joblib
